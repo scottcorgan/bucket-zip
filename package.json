@@ -1,0 +1,20 @@
+{
+  "name": "bucket-zip",
+  "version": "0.3.0",
+  "description": "Download a directory from an Amazon S3 bucket as zip file.",
+  "main": "index.js",
+  "dependencies": {
+    "archiver": "~0.4.2",
+    "bucket-files": "~0.3.x"
+  },
+  "repository": "",
+  "keywords": [
+    "amazon",
+    "aws",
+    "s3",
+    "zip"
+  ],
+  "author": "Scott Corgan",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
