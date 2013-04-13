@@ -7,7 +7,7 @@
     "archiver": "~0.4.2",
     "bucket-files": "~0.3.x"
   },
-  "repository": "",
+  "repository": "git@github.com:scottcorgan/bucket-zip.git",
   "keywords": [
     "amazon",
     "aws",
