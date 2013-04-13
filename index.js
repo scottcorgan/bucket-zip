@@ -27,7 +27,6 @@ exports.connect = function (opts) {
         if (err) {
           throw err;
         }
-        console.log(written + ' total bytes written');
       });
     });
     
