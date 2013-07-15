@@ -4,9 +4,7 @@ Download a directory from an Amazon S3 bucket as zip file.
 
 ## Install
 
-```
-npm install bucket-zip --save
-```
+[![NPM](https://nodei.co/npm/bucket-zip.png)](https://nodei.co/npm/bucket-zip/)
 
 ## Usage
 
