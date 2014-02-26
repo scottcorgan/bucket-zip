@@ -1,6 +1,6 @@
 {
   "name": "bucket-zip",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Download a directory from an Amazon S3 bucket as zip file.",
   "main": "index.js",
   "dependencies": {
