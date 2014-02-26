@@ -13,10 +13,9 @@ Download a directory from an Amazon S3 bucket as zip file.
 var BucketZip = require('bucket-files');
 var bucketZip = BucketZip.connect({
   key: 's3-key',
-  secret: 's3-secret'
+  secret: 's3-secret',
   bucket: 'name-of-the-s3-bucket'
 });
-
 
 // Stream a zip file of a directory
 // "res" is a node response object
