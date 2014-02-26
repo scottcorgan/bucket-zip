@@ -17,7 +17,6 @@ var bucketZip = BucketZip.connect({
   bucket: 'name-of-the-s3-bucket'
 });
 
-
 // Stream a zip file of a directory
 // "res" is a node response object
 
